@@ -1,4 +1,4 @@
-# pacmanjs
+# PacMan Js
 # Description
 JavaScript excercise for web development. Created a PacMan moving img
 
